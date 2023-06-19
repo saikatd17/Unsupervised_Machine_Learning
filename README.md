@@ -13,6 +13,9 @@ By the end of the workshop, you will be equipped with the skills and knowledge t
 4.		Linear and logistic regression
 5.		More on classification and predictive models
 6.		Evaluation of Predictive Models	
-7.		Discussion, and evaluation of Group Assignment
+7.		Discussion and evaluation of Group Assignment
 8.		Discussion on future directions and applying Python in other advanced topics.
 
+### Reference Texts
+Pandas for Everyone: Python Data Analysis by Daniel Y. Chen
+Manaranjan Pradhan & U Dinesh Kumar, “Machine Learning using Python”, Wiley
