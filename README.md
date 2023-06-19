@@ -1,4 +1,4 @@
-# Python for Data Science - Fundamentals By Saikat Das
+# Python for Data Science - Fundamentals
 (This repository contains the datasets and codes for the 8 sessions on Python for Data Science Workshop.)
 
 Data science has become a critical component of modern-day businesses to handle and analyze data. Python is a powerful programming language used widely in data science and offers several libraries and tools to perform complex data analysis tasks.
