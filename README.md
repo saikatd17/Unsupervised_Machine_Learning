@@ -3,7 +3,7 @@
 
 This repository contains the datasets and codes for the 8 sessions on Python for Data Science Workshop. 
 
-## The topics covered session-wise are fundamental concepts, more advanced topics like neural networks, text mining and social network analysis will be discussed separately:
+### The topics covered session-wise are fundamental concepts, more advanced topics like neural networks, text mining and social network analysis will be discussed separately:
 1.		Introduction to Data Science and Python
 2.		Data Pre-processing, Exploration, and Visualization using Python	
 3.		Machine Learning in Python, concepts of supervised and unsupervised learning	
