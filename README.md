@@ -18,4 +18,5 @@ By the end of the workshop, you will be equipped with the skills and knowledge t
 
 ### Reference Texts
 Pandas for Everyone: Python Data Analysis by Daniel Y. Chen
+
 Manaranjan Pradhan & U Dinesh Kumar, “Machine Learning using Python”, Wiley
