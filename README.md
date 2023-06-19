@@ -1,4 +1,5 @@
-# Python for Data Science - Fundamentals (Contains Datasets and Codes for Workshop on Python for Data Science by Saikat Das)
+# Python for Data Science - Fundamentals By Saikat Das
+(Contains Datasets and Codes for Workshop on Python for Data Science by Saikat Das)
 
 This repository contains the datasets and codes for the 8 sessions on Python for Data Science Workshop. 
 
