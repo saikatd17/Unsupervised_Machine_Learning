@@ -7,25 +7,25 @@ By the end of the workshop, you will be equipped with the skills and knowledge t
 
 
 ### The topics covered session-wise are fundamental concepts, more advanced topics like neural networks, text mining and social network analysis will be discussed separately:
-1.		Introduction to Data Science
-2.		Fundamentals of Python Programming Language
+1. Introduction to Data Science
+2. Fundamentals of Python Programming Language
       • Python_Basics_Tutorial.ipynb for practice in class (incomplete code, to be filled by participants during hands-on sessions in class)
       • Python_Basics.ipynb for your revision at home (complete code with comments, notes)
-3.    Fundamentals of Pandas (Python library for working with datasets)
+3. Fundamentals of Pandas (Python library for working with datasets)
       • Pandas_Basics_Tutorial.ipynb for practice in class (incomplete code, to be filled by participants during hands-on sessions in class)
       • Pandas_Basics.ipynb for your revision at home (complete code with comments, notes)
-4.    Data Exploration, and Visualization using Python
+4. Data Exploration, and Visualization using Python
       • Challenges with Data, importance of visualization, chart suggestions
-5.    Exploratory Data Analysis Using Titanic Dataset
+5. Exploratory Data Analysis Using Titanic Dataset
       • Titanic_Dataset_EDA_Tutorial.ipynb for practice in class (incomplete code, to be filled by participants during hands-on sessions in class)
       • Titanic_Dataset_EDA.ipynb for your revision at home (complete code with comments, notes)
-6.    Data Pre-processing (cleaning, transformation, and reduction)
+6. Data Pre-processing (cleaning, transformation, and reduction)
       • Data_Preparation_Titanic_Tutorial.ipynb for practice in class (incomplete code, to be filled by participants during hands-on sessions in class)
       • Data_Preparation_Titanic.ipynb for your revision at home (complete code with comments, notes)
-7.		Machine Learning using Python
+7. Machine Learning using Python
       • Concepts of unsupervised learning and supervised learning; linear and logistic regression under supervised techniques
       • Building a classification model using logistic regression
-8.    Building and Evaluation of Predictive Models for classification
+8. Building and Evaluation of Predictive Models for classification
       • Supervised_Learning_Classification_Tutorial.ipynb for practice in class (incomplete code, to be filled by participants during hands-on sessions in class)
       • Supervised_Learning_Classification.ipynb for your revision at home (complete code with comments, notes)
   
