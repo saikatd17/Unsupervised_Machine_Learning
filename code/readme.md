@@ -15,4 +15,4 @@ The key topics covered with code examples,
    - Functional Programming
    - Other Miscellaneous Features
 
-## Basics of Visualization
+## Basics of Visualization and more ...
