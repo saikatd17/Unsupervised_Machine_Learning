@@ -1,4 +1,4 @@
-# Unsupervised Machine Learning (ML)
+## Unsupervised Machine Learning (ML)
 (This repository contains the datasets and codes for teaching unsupervised ML techniques in Data Mining Course.)
 Unsupervised ML techniques such as clustering, market basket analysis etc. have several applications in the business management domain. They can be used to understand customers preferences, improve sales of product and services through recommendation systems, identify potential opportunities to cross-sell. In this repository I have shared the implementation of the most popular unsupervised ML algorithms in Python with specific focus on solving business problems.
 
