@@ -1,4 +1,5 @@
 This folder contains notebooks that demonstrate:
+The tutorials have some codes that need to be added, denoted by '?' marks. After replacing the '?' marks with appropriate codes, the code can be executed in class.
 
 ### Unsupervised ML Algorithms
 The key topics covered with code examples,
