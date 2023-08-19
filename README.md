@@ -5,8 +5,9 @@ Unsupervised ML techniques such as clustering, market basket analysis etc. have 
 
 ### The topics covered session-wise are:<br/>
 
+1. 
 1. Reading Exploring & Visualizing Data<br/>
-2, 3. Dimensionality reduction<br/>
+2,3. Dimensionality reduction<br/>
    • Correlation analysis<br/>
    • Principal Component Analysis<br/>
 4,5. Clustering<br/>
