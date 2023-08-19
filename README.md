@@ -4,9 +4,7 @@
 Unsupervised ML techniques such as clustering, market basket analysis etc. have several applications in the business management domain. They can be used to understand customers preferences, improve sales of product and services through recommendation systems, identify potential opportunities to cross-sell. In this repository I have shared the implementation of the most popular unsupervised ML algorithms in Python with specific focus on solving business problems.
 
 ### The topics covered session-wise are:<br/>
-
-1. 
-1. Reading Exploring & Visualizing Data<br/>
+   1. Reading Exploring & Visualizing Data<br/>
 2,3. Dimensionality reduction<br/>
    • Correlation analysis<br/>
    • Principal Component Analysis<br/>
